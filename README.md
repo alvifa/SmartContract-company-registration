@@ -35,7 +35,7 @@ The needed environment to be used in other computer is documented in readme loca
 
 6. Once there, do right click, select "Git Bash Here". A new console window will be displayed. Or you can open the folder using any desired terminal.
 
-7. If folder "node_modules" is not in the path location run command: "npm install". I other case continue to step 8.
+7. If folder "node_modules" is not in the path location run command: "npm install". In other case continue to step 8.
 
 9. Run the command "code .", this will open Visual Studio Code.
 
