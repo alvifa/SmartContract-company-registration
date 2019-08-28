@@ -51,9 +51,9 @@ The web site oficial is https://truffleframework.com/truffle
 
 11- Clone repository: Next we will locate ourselves in any part of our pc, we will create a folder, inside we open the GIT BASH and execute the following command: 
 
-          git clone https://github.com/alvifa/SmartContract-company-registration/tree/master/seminario-creacion-empresas 
-
-Once downloaded we verify the weight of the folder where it was downloaded.
+          git clone https://github.com/alvifa/SmartContract-company-registration
+          
+Once downloaded we verify the weight of the folder where it was downloaded, and go to the folder: SmartContract-company-registration\seminario-creacion-empresas\company-registration
 
 12- Install project dependencies: Next proceed to install the dependencies of the entire project of smart contracts so that it works effectively according to its development dependencies until the current version of the repository, once completed verify the size of the folder in where was located case of use.
 
@@ -75,8 +75,17 @@ IMPORTANT
 
 Once installed the software requirements mentioned in the step-by-step guide, you can perfectly replicate and continue to share this project with the smart contracts project.
 
-15.1
-Set the ganache info in the truffle-config.js
+15.1 Introduce the password if needed.
+
+15.2 Open Ganache and Quickstart.
+
+15.3 Open Metamask extension in explorer and click on Networks->Custom RPC and enter the following information:
+
+       - Network Name: Could be any name
+       - New RPC URL: http://127.0.0.1:7545
+       - Finally click on Save
+
+15.4 Set the ganache info in the truffle-config.js
 
 module.exports = { 
   networks: { 
