@@ -8,10 +8,10 @@ System developed with React to register a new company using a smart contract and
 
 Prerequisites
 
-Node.js 
-Truffle 
-Ganache 
-Metamask
+* Node.js 
+* Truffle 
+* Ganache 
+* Metamask
 
 --------------------------------------------------------------------------------------------------------------------------------
 
