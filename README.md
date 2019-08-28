@@ -1,6 +1,8 @@
 # SmartContract-company-registration
 * [Readme][Readme]
 
+[Readme]: https://github.com/myproject/wiki/Home
+
 Company registration - Smart Contract
 
 System developed with React to register a new company using a smart contract and Ethereum test network (Ganache) to validate accomplish  of needed formalities
