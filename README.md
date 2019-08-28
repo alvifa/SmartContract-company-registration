@@ -1,4 +1,5 @@
 # SmartContract-company-registration
+* [Readme][Readme]
 
 Company registration - Smart Contract
 
@@ -13,7 +14,7 @@ Metamask
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Follow the next steps in order to get the system working using virtual machine, the needed environment to be used in other computer is documented in readme located in [usermanual]: https://github.com/alvifa/SmartContract-company-registration folder.
+Follow the next steps in order to get the system working using virtual machine, the needed environment to be used in other computer is documented in readme located in [Readme]: https://github.com/alvifa/SmartContract-company-registration/tree/master/seminario-creacion-empresas folder.
 
 1. Download virtual machine .ova file.
 
