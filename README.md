@@ -2,6 +2,8 @@
 
 * [Readme][Readme]
 
+[Readme]: https://github.com/alvifa/SmartContract-company-registration/tree/master/seminario-creacion-empresas
+
 Company registration - Smart Contract
 
 System developed with React to register a new company using a smart contract and Ethereum test network (Ganache) to validate accomplish  of needed formalities
@@ -15,11 +17,11 @@ Prerequisites
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Follow the next steps in order to get the system working using virtual machine, the needed environment to be used in other computer is documented in readme located in the Readme link at the top of this wiki.
+Follow the next steps in order to get the system working using virtual machine.
 
-[Readme]: https://github.com/alvifa/SmartContract-company-registration/tree/master/seminario-creacion-empresas
+The needed environment to be used in other computer is documented in readme located in the Readme link at the top of this wiki.
 
-1. Download virtual machine .ova file.
+1. Download virtual machine .ova file, file can be found here: 
 
 1. Load .ova, using virtual box software, you can download it here: "https://www.virtualbox.org/wiki/Downloads".
 
